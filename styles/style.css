@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+    margin: 0;
+}
+
+/* canvas {
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
